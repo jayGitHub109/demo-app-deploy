@@ -5,5 +5,7 @@ resources:
 - ../../base
 
 images:
+- name: ghcr.io/jayGitHub109/demo-app
+  newTag: 9ec8e8e39f4fba2ba5bd41c99f66911f1068514c
 - name: ghcr.io/jaygithub109/demo-app
   newTag: latest
